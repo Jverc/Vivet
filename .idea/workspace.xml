@@ -5091,17 +5091,20 @@
       <change afterPath="$PROJECT_DIR$/env/Scripts/winsound.pyd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/env/pip-selfcheck.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/env/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-maps-nearby-search-js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/static/script.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/static/search_main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/search_main.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/search_results.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/your_file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/vivet.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Vivet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/vivet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Vivet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Vivet.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -5227,6 +5230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -5248,7 +5252,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -5291,9 +5294,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-924" y="-2160" width="1294" height="1416" extended-state="1" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1993517" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20242915" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="JuliaSciView" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -5302,7 +5305,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32844037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.049881235" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.46823958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
