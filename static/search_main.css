@@ -1,0 +1,14 @@
+ * {
+    background: #F9F1D2;
+}
+
+div {
+    display: center;
+}
+
+
+/*@media screen and (max-width: 600px) {
+  .topnav {
+    display: flex;
+    flex-direction: column;
+  }
