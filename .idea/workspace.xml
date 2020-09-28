@@ -74,6 +74,7 @@
       <find>dist</find>
       <find>initMap</find>
       <find>ini</find>
+      <find>icon</find>
     </findStrings>
     <replaceStrings>
       <replace>joakim.vercaemst</replace>
