@@ -13,13 +13,13 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-@app.route('/search')
-def search():
-    return render_template("search_main.html")
-
-@app.route('/search_results', methods=["POST"])
-def search_results():
-    return render_template(("search_results.html"))
+# @app.route('/search')
+# def search():
+#     return render_template("search_main.html")
+#
+# @app.route('/search_results', methods=["POST"])
+# def search_results():
+#     return render_template(("search_results.html"))
 
 # @app.route('/google')
 # def search():
